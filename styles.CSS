@@ -1,0 +1,67 @@
+body{
+  text-align: center;
+}
+h5{
+  position: absolute;
+  left: 50px;
+  top:50px;
+  margin: 0;
+}
+.container
+{  	position:relative;
+  	height: 450px;
+ 	 width: 400px;
+  	background-color: lightgray;
+margin: auto;}
+
+div .one,.two,.thre,.four,.five,.six,.seven,.eight,.nine{
+  width: 100px;
+    	height: 100px;
+display: inline-block;
+position: relative;
+
+top:50px;
+margin: 0;
+}
+.red{
+    	background-color: red;
+      width: 100px;
+        	height: 100px;
+    display: inline-block;
+    position: relative;
+
+    top:50px;
+    margin: 0;
+}
+.orange{
+    	background-color: orange;
+
+}
+.yellow{
+    	background-color: yellow;
+
+}
+.green{
+    	background-color: green;
+
+}
+.lightblue{
+    	background-color: lightblue;
+
+}
+.blue{
+    	background-color: blue;
+
+}
+.white{
+    	background-color: white;
+
+}
+.gray{
+    	background-color: gray;
+
+}
+.pink{
+    	background-color: pink;
+
+}
